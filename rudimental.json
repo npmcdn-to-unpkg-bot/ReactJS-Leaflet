@@ -1,0 +1,44 @@
+{
+	"Rudimental": {
+		"Conciertos": [
+			{
+				"Fecha": "10-3-2016",
+				"Lugar": {
+					"Recinto": "Estadio Nacional",
+					"Pais": "Chile",
+					"Ciudad": "Santiago"
+				}
+			},
+			{
+				"Fecha": "10-7-2016",
+				"Lugar": {
+					"Pais": "Argentina",
+					"Ciudad": "Santa Fe"
+				}
+			},
+			{
+				"Fecha": "10-8-2016",
+				"Lugar": {
+					"Pais": "Argentina",
+					"Ciudad": "Buenos Aires"
+				}	
+			},
+			{
+				"Fecha": "10-11-2016",
+				"Lugar": {
+					"Pais": "Brasil",
+					"Ciudad": "Curitiba"
+				}	
+			},
+			{
+				"Fecha": "10-13-2016",
+				"Lugar": {
+					"Pais": "Brasil",
+					"Ciudad": "Sao Paulo"
+				}	
+			}
+				
+		],
+		"Website": "http://rudimental.co.uk/"	
+	}
+}
