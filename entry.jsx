@@ -7,4 +7,4 @@ import injectTapEventPlugin from 'react-tap-event-plugin';
 injectTapEventPlugin();
 
 
-ReactDoom.render(<App/>, document.getElementById('render-target'));
+ReactDoom.render(<App/>, document.getElementById('container'));

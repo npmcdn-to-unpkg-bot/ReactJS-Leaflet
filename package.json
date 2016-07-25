@@ -26,9 +26,13 @@
   "dependencies": {
     "eslint": "^3.1.0",
     "json-loader": "^0.5.4",
+    "leaflet": "^0.7.7",
+    "leaflet-providers": "^1.1.14",
     "material-ui": "^0.15.2",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
+    "react-leaflet": "^0.12.1",
+    "react-leaflet-control": "^1.1.0",
     "react-tap-event-plugin": "^1.0.0"
   },
   "description": ""
